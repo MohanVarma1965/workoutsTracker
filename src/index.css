@@ -13,7 +13,6 @@ body {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
-
 .workoutContainer {
   display: flex;
   flex-direction: column;

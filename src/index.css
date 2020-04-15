@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(24, 25, 26);
+  color:rgb(228, 230, 235);
+  font-size:15px;
+  font-weight:500;
+  line-height:19.9995px;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.workoutContainer {
+  display: flex;
+  flex-direction: column;
+  width: 225px;
 }
+
